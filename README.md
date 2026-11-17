@@ -160,6 +160,10 @@ flutter run
 
 🎥 _[Cole aqui o link do vídeo de demonstração (até 3 minutos)]_
 
-## 10. Licença
+## 10. Instalar o app (APK)
+
+[Baixar o APK (Android)](https://github.com/Felipe-Chinelli/territory-predictive-insights/releases/tag/v1.0.0)
+
+## 11. Licença
 
 Projeto acadêmico, FIAP, Global Solution 2026.2.
