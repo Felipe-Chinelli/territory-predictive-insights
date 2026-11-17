@@ -28,14 +28,11 @@
 
 | | |
 |---|---|
-| ![Consentimento](assets/screenshots/01-consentimento.png)<br>**Consentimento explícito** antes de entrar | ![Visão geral](assets/screenshots/02-visao-geral.png)<br>**Visão geral:** KPIs, benefício social e alertas prioritários |
-| ![Painel de demanda](assets/screenshots/03-painel-demanda.png)<br>**Painel 1 · Demanda:** histórico e previsão de 7 dias | ![Painel de territórios](assets/screenshots/04-painel-territorios.png)<br>**Painel 2 · Territórios:** demanda por mil habitantes e prazo por região |
-| ![Painel de clima](assets/screenshots/05-painel-clima.png)<br>**Painel 3 · Clima × demanda:** chuva e chamados | ![Alertas](assets/screenshots/06-alertas.png)<br>**Alertas** com filtros e aviso de decisão humana |
-| ![Detalhe do alerta](assets/screenshots/07-alerta-evidencias.png)<br>**Detalhe do alerta:** evidências e confiança | ![Limitações e decisão](assets/screenshots/08-alerta-limitacoes-decisao.png)<br>**Limitações, vieses e decisão do gestor** |
-| ![Detalhe do indicador](assets/screenshots/09-indicador.png)<br>**Detalhe do indicador** por serviço e região | ![Ocorrências vazio](assets/screenshots/10-ocorrencias-vazio.png)<br>**Ocorrências:** estado de lista vazia |
-| ![Formulário com erros](assets/screenshots/11-formulario-erros.png)<br>**Formulário** com validação e mensagens de erro | ![Ajustes](assets/screenshots/12-ajustes.png)<br>**Ajustes:** acessibilidade, limiares e privacidade |
-| ![Metodologia](assets/screenshots/13-metodologia.png)<br>**Metodologia, métricas e limitações** | ![Estado de erro](assets/screenshots/14-erro.png)<br>**Estado de erro** com nova tentativa |
-| ![Tema escuro](assets/screenshots/15-tema-escuro.png)<br>**Tema escuro** | ![Alto contraste](assets/screenshots/16-alto-contraste.png)<br>**Alto contraste e fonte ampliada** |
+| **Consentimento**<br><img width="200" alt="Consentimento" src="https://github.com/user-attachments/assets/48a9f8cc-0fc1-4b5e-b0aa-bfd6cbbe4343" /><br>Consentimento explícito antes de entrar | **Visão geral**<br><img width="200" alt="Visão geral" src="https://github.com/user-attachments/assets/33a3debb-7f10-488c-b115-c7c82cd55a71" /><br>KPIs, benefício social e alertas prioritários |
+| **Painel 1 · Demanda**<br><img width="200" alt="Painel de demanda" src="https://github.com/user-attachments/assets/be8d56fd-f0af-46b7-a43b-47a28b052cd7" /><br>Histórico e previsão de 7 dias | **Painel 2 · Territórios**<br><img width="200" alt="Painel de territórios" src="https://github.com/user-attachments/assets/64eed19d-355c-4c43-aa51-1f51ec5e5d3f" /><br>Demanda por mil habitantes e prazo por região |
+| **Painel 3 · Clima × demanda**<br><img width="200" alt="Painel de clima" src="https://github.com/user-attachments/assets/ff8c25d3-d8e1-4b3a-9af7-9dba3428cae8" /><br>Chuva e chamados | **Alertas**<br><img width="200" alt="Alertas" src="https://github.com/user-attachments/assets/69fb6881-588a-4f89-ba9a-17e1599bcbc8" /><br>Filtros e aviso de decisão humana |
+| **Ocorrências**<br><img width="200" alt="Ocorrências" src="https://github.com/user-attachments/assets/8d5504fe-0efa-4319-b512-a86a151e1039" /><br>Estado de lista vazia | **Ajustes**<br><img width="200" alt="Ajustes" src="https://github.com/user-attachments/assets/5a1e7b60-3075-43b4-85dc-5a037b3dba94" /><br>Acessibilidade, limiares e privacidade |
+
 
 ## 4. Funcionalidades
 
