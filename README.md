@@ -158,7 +158,7 @@ flutter run
 
 ## 9. Vídeo
 
-🎥 _[Cole aqui o link do vídeo de demonstração (até 3 minutos)]_
+🎥 _https://youtu.be/f9lf7fAvrkU_
 
 ## 10. Instalar o app (APK)
 
